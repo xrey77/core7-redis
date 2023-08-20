@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9uMbNS2lmaa8N2dUm3lhTXd8qGCrkxoyNadvxfET2WY=",
+  "Source": "core7-redis",
+  "BasePath": "_content/core7-redis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
